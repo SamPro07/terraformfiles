@@ -1,8 +1,7 @@
 # Provisioning the Amazon EKS cluster using Terraform
-This repository contains the terraform file code, which we can use to provision the **Amazon EKS** cluster as part of Project 4 of our **10WeeksofCloudOps** series! In this comprehensive hands-on project, we dive deep into the world of **GitOps and ArgoCD**, demonstrating how to implement these essential DevOps practices step by step by **dockerizing** the application and provisioning the infrastructure using **Terraform**(this repo).
+This repository contains the terraform file code, which we can use to provision the **Amazon EKS** cluster In this comprehensive project, I dive deep into the world of **GitOps and ArgoCD**, demonstrating how to implement these essential DevOps practices step by step by **dockerizing** the application and provisioning the infrastructure using **Terraform**(this repo).
 
-## 💪Complete Hands-on video tutorial for this project. Click here 👇
-[![GitOps , ArgoCD, Terraform](https://i9.ytimg.com/vi_webp/LgBnbmfsIdA/mqdefault.webp?v=65001550&sqp=CMyFgqgG&rs=AOn4CLB-7wLlJjUqu2q7dOdDMdQRyQ46TA)]
+
 
 ## Architecture Diagram
 
@@ -14,7 +13,9 @@ Follow the below steps to Install the Terraform and another dependency.
 
 1️⃣ Clone the repo
 
-``` git clone https://github.com/piyushsachdeva/10weeksofcloudops-week4-tf.git ```
+``` git clone https://github.com/SamPro07/terraformfiles.git ```
+``` git clone https://github.com/SamPro07/Devops-Project2.git ```
+``` git clone https://github.com/SamPro07/Kube_manifest.git ```
 
 2️⃣ Let's install dependency to deploy the application
 
@@ -69,8 +70,8 @@ type yes, and it will prompt you for permission or use --auto-approve in the com
 
 **This project contains Three GitHub repositories**
 
-➡️ [App Code] (https://github.com/piyushsachdeva/AppCode)
+➡️ 
 
-➡️ [Terraform code] (https://github.com/piyushsachdeva/10weeksofcloudops-week4-tf)
+➡️ 
 
-➡️ [Manifest Repo] (https://github.com/piyushsachdeva/kube_manifest)
+➡️ 
